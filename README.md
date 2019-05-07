@@ -12,11 +12,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 需求： 将已完成好的Angular项目封装成一个桌面应用；Electron 可以让你使用纯 JavaScript 调用丰富的原生 APIs 来创造桌面应用
 
-## 创建项目：
+## 创建项目
 
 ng new ang-electron2
 
-## 打包步骤：
+## 打包步骤
 
 1、在ang-electron2项目package.json目录下执行npm install electron --save
 
