@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## 运行
 
-1、安装 package，在项目录下运行 `npm install` 命令,因为墙的原因可能无法下载一些库，可以使用 [cnpm](https://npm.taobao.org) 或 [yarn](https://yarnpkg.com/zh-Hans/)。
+1、安装 package，在项目目录下运行 `npm install` 命令,因为墙的原因可能无法下载一些库，可以使用 [cnpm](https://npm.taobao.org) 或 [yarn](https://yarnpkg.com/zh-Hans/)。
 
 2、使用 `ng serve` 调试项目，项目访问地址为 [http://localhost:4200/](http://localhost:4200/) 。文件改变时app自动刷新
 
