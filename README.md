@@ -91,6 +91,8 @@ app.on('activate', () => {
 
 ## tips
 
+此项目可直接下载使用
+
 开启调试模式,在main.js注释掉win.webContents.openDevTools()再次编译即可。
 
 运行后项目路径有问题的，index.html文件中的<base href="/">替换成<base href="./">
