@@ -16,7 +16,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ng new ang-electron2
 
-## 打包步骤
+## 配置electron步骤
 
 1、在ang-electron2项目package.json目录下执行npm install electron --save
 
