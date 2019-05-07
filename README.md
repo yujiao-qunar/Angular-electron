@@ -95,7 +95,7 @@ app.on('activate', () => {
 
 2、开启调试模式,在main.js注释掉win.webContents.openDevTools()再次编译即可。
 
-3、运行后项目路径有问题的，index.html文件中的<base href="/">替换成<base href="./">
+3、运行后项目路径有问题的，index.html文件中的``` <base href="/"> ```替换成``` <base href="./">```
 
 4、项目http请求使用代理的，将environment的baseUrl替换为实际访问地址
 
