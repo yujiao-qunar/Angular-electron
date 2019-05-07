@@ -99,7 +99,7 @@ app.on('activate', () => {
 
 4、项目http请求使用代理的，将environment的baseUrl替换为实际访问地址
 
-5、项目cssz种的png无法显示的，改为行内
+5、项目css的png无法显示，改为行内可显示
 
 ## 打包
 
