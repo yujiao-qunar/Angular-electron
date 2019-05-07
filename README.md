@@ -86,7 +86,7 @@ app.on('activate', () => {
 4、修改package.json文件增加electron的相关配置
 ![Image text](https://github.com/yujiao-qunar/Angular-electron/blob/master/src/assets/img/package.png)
 
-5、运行项目 npm run start
+5、运行项目 npm run electron（如已存在dist，可直接运行 npm run start）
 ![Image text](https://github.com/yujiao-qunar/Angular-electron/blob/master/src/assets/img/elec.png)
 
 ## tips
